@@ -12,7 +12,7 @@
  - 🖥 Estou cursando Análise e Desenvolvimento de Sistemas.                     
  - 👨🏼‍💻 Aprendendo sobre o maravilhoso mundo da programação. 
  - ⌨️ Apaixonado por tecnologia e sempre em busca de aprendizado.
-   <img src=![image](https://github.com/user-attachments/assets/de3d6c20-6b39-40ae-b772-f39192a9493b) align="rigth"/>
+   <img src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.gif align="rigth"/>
 
    
 
